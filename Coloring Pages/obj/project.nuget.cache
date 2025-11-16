@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qKG7AFRdXVU=",
+  "success": true,
+  "projectFilePath": "D:\\AT\\251020 - rebuild batch1 and 2\\coloringpages\\github\\Coloring Pages\\Coloring Pages\\Coloring Pages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AZ\\.nuget\\packages\\microsoft.web.webview2\\1.0.3590-prerelease\\microsoft.web.webview2.1.0.3590-prerelease.nupkg.sha512"
+  ],
+  "logs": []
+}
